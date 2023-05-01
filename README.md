@@ -1,5 +1,5 @@
 # simple-social-network
-Simple social network program to practice with Lists, Nested lists, Dictionaries, Functions.
+Practice with Lists, Nested lists, Dictionaries, Functions.
 
 ## Description
 A simple approach to suggest the most probable new friend for users on a social network such as Facebook.
