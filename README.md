@@ -1,4 +1,4 @@
-# simple-python-social-network
+# simple-social-network
 Simple social network program to practice with Lists, Nested lists, Dictionaries, Functions.
 
 ## Description
